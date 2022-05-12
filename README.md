@@ -18,3 +18,7 @@ Problem 3 for simulation:
 Just click Problem3.m
 
 Team 6&7 Review has been uploaded in pdf
+
+
+The HW2 contains the rod twist simualtio and end-tip displacement
+To to run the simulation, just click the "HW2_Main.m" file
